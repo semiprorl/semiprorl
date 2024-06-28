@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @semiprorl
-- 👀 I’m interested in programmation (HTML/CSS/Python)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programmation (HTML/CSS/Python/Java)
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: Programmer/Car guy
-- ⚡ "Fun" fact: My dad is actually a programmer
 
 <!---
 semiprorl/semiprorl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
