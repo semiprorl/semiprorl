@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "com.openclassrooms.webapp",
+      "type": "com.openclassrooms.webapp.CustomProperties",
+      "sourceType": "com.openclassrooms.webapp.CustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.openclassrooms.webapp.api-url",
+      "type": "java.lang.String",
+      "sourceType": "com.openclassrooms.webapp.CustomProperties"
+    }
+  ],
+  "hints": []
+}
